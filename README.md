@@ -2,6 +2,12 @@
 
 ![Banner](assets/banner.png)
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python&logoColor=white)
+![HackerRank](https://img.shields.io/badge/HackerRank-Solutions-brightgreen?style=flat&logo=hackerrank)
+![Status](https://img.shields.io/badge/Progress-Ongoing-yellow?style=flat)
+![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat)
+
+
 Kumpulan solusi Python untuk tantangan-tantangan pemrograman di platform **HackerRank**.  
 Semua kode ditulis dengan pendekatan clean code dan disusun berdasarkan kategori soal.
 
