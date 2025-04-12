@@ -1,6 +1,6 @@
 # 🐍 Python Solutions – HackerRank Practice
 
-![Banner](assets/hackerrank-python-banner.png)
+![Banner](assets/banner.png)
 
 Kumpulan solusi Python untuk tantangan-tantangan pemrograman di platform **HackerRank**.  
 Semua kode ditulis dengan pendekatan clean code dan disusun berdasarkan kategori soal.
